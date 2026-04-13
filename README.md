@@ -4,7 +4,8 @@ To do list
 
 ---
 
-##  Objective
+##  Overview
+
 The **To-Do List CLI Application** is a Python-based command-line program designed to help users organize and manage their daily tasks efficiently. This application allows users to interact through a simple text-based interface where they can add, delete, and view tasks.
 
 The main goal of this project is to provide a lightweight and easy-to-use task management system without requiring any graphical interface. It is especially useful for beginners to understand basic programming concepts such as loops, lists, and user input handling.
